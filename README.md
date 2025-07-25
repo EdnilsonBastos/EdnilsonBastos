@@ -22,5 +22,7 @@
 </div>
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/EdnilsonBastos/EdnilsonBastos//blob/main/snake.svg" alt="Snake animation" />
+
+
+<img src="https://raw.githubusercontent.com/EdnilsonBastos/EdnilsonBastos/refs/heads/main/snake.svg" alt="Snake animation" />
 
